@@ -8,9 +8,9 @@ button.onclick = () => {
     xhr.setRequestHeader('Content-Type', 'application/json');
 
     xhr.send(JSON.stringify({
-        name: 'Star wars 1',
+        name: 'Star wars 2',
         genre: 'cool',
-        rating: 10,
+        rating: 11,
         explicit: true
       }))
 
