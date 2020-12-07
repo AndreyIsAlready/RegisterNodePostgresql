@@ -1,4 +1,4 @@
-Авторизация, аутентефикация node.js + Postgresql
+Авторизация, аутентификация node.js + Postgresql
 
 
 knex migrate:latest --env development
